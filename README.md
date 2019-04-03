@@ -1,2 +1,3 @@
 # .github
-Default Community Health Files for GitHub Repos
+
+*Community health files for the @home-assistant organization*
