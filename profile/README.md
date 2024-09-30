@@ -8,4 +8,4 @@ Open source home automation that puts local control and privacy first. Powered b
 - [View demo](https://demo.home-assistant.io/)
 - [Browse 1000+ integrations](https://www.home-assistant.io/integrations/)
 
-This is a project of the [Open Home Foundation](https://www.openhomefoundation.org/).
+[![Home Assistant - A project from the Open Home Foundation](https://www.openhomefoundation.org/badges/home-assistant.png)](https://www.openhomefoundation.org/)
